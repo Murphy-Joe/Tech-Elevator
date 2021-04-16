@@ -1,0 +1,16 @@
+img {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
+
+p {
+    text-align: center;
+}
+
+
+ul {
+  display: table;
+  margin: auto;
+}
